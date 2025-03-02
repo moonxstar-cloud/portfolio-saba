@@ -152,7 +152,7 @@ export const DATA = {
         
       ],
       image: "https://scontent.flhe7-1.fna.fbcdn.net/v/t39.30808-6/481051238_122151026030366558_6736628261814155704_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=q3YV8N4y3xAQ7kNvgEEWVL7&_nc_oc=Adg6HVcwOJlbs5Qgqm8YecEBdHnMlDwhmMPk4i87v-smY34qgJwqr_SI_YoMk4NrZKA&_nc_zt=23&_nc_ht=scontent.flhe7-1.fna&_nc_gid=AJFqcedETGW2vw-P7XRRhPT&oh=00_AYB4f51ega9xRaKYNO0rVXOm0Y1RFxkMqzauX_D17PVCoA&oe=67C7D84B",
-
+      video: "...",
     },
     {
       title: "ChatBot - Upload Multi Format Docs and Start Chatting",
@@ -180,7 +180,7 @@ export const DATA = {
         },
       ],
       image: "https://scontent.flhe7-1.fna.fbcdn.net/v/t39.30808-6/481819445_122151032030366558_7959703588915331989_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6RfkNrqSomsQ7kNvgFP4hxg&_nc_oc=AdiI011SA7laaJpLMQ9xN1cc2QLAEIeBGdtYyafjITQvDyzkJ35taWzirq6Faae4ja0&_nc_zt=23&_nc_ht=scontent.flhe7-1.fna&_nc_gid=AmqxzeNRpHVCMegONFbxdYo&oh=00_AYALLBw7plNT04sfu1czHOut-ct9hgnxduaNtZ7DaKpu7w&oe=67C7F915",
-     
+      video: "...",
     },
     {
       title: "llm.report",
@@ -242,7 +242,7 @@ export const DATA = {
         },
       ],
       image: "https://scontent.flhe7-1.fna.fbcdn.net/v/t39.30808-6/481080200_122151031580366558_6550577008011655738_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4Htc1NN6j4wQ7kNvgE2UgEJ&_nc_oc=AdgtkpSNs8o9hSz7CQ8SUtQP8mCAtUAHHP_SHfCOXoNc0VOIBcyxJpHJy0pgoau2NHk&_nc_zt=23&_nc_ht=scontent.flhe7-1.fna&_nc_gid=A-RWlJXMi24cafpT1cnKKnc&oh=00_AYAbXBE72lTJcTbu7-ihDCFC_Kfy-wt52P1QqBG6cWwGYA&oe=67C7E7FE",
-     
+      video: "...",
     },
   ],
   hackathons: [
