@@ -119,6 +119,17 @@ export const DATA = {
       end: "Jun 2024",
     },
   ],
+  certification: [
+    {
+      school: "Meta Developers",
+      href: "https://coursera.org/share/bc4140b25c71b9f79bb1f5c6ff73923e",
+      degree: "Meta Front-End Developer",
+      logoUrl: "https://cdn.pixabay.com/photo/2021/11/01/15/20/meta-logo-6760788_1280.png",
+      start: "Jan 2007",
+      end: "February 27, 2025",
+    },
+ 
+  ],
   ///////////////////////////////////
   projects: [
     {
