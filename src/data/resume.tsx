@@ -9,7 +9,7 @@ export const DATA = {
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
     "A Software developer who loves to build application that solves real world problems",
-  summary:"I am a passionate Frontend Developer with expertise in React.js, Next.js, and modern UI frameworks. I specialize in building responsive, user-friendly, and high-performance web applications using JavaScript (ES6+), TypeScript, Tailwind CSS, and Redux. With a keen eye for design and a strong understanding of UI/UX principles, I focus on creating seamless user experiences. I am always eager to learn new technologies, optimize performance, and contribute to innovative projects. Let's build something amazing together! 🚀",
+  summary:"a passionate MERN Stack Developer with a strong focus on frontend development. I specialize in building modern, responsive, and user-friendly web applications using React, Material UI, Magic UI, ShadCN UI, and Tailwind CSS. With a deep understanding of UI/UX principles, I strive to create visually appealing and highly interactive user interfaces that enhance user experiences. My expertise extends to developing full-stack applications, seamlessly integrating MongoDB, Express.js, React, and Node.js to build scalable and efficient web solutions. I am always eager to learn new technologies, optimize web performance, and bring creative ideas to life through clean and maintainable code. Whether it’s designing custom components, managing state with Redux, or implementing real-time features, I am committed to delivering high-quality solutions tailored to business needs.🚀",
   resumeURL: "https://jade-chrysler-26.tiiny.site",
   avatarUrl: "https://avatars.githubusercontent.com/u/178190699?v=4",
   skills: [
