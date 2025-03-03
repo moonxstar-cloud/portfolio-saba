@@ -10,6 +10,7 @@ export const DATA = {
   description:
     "A Software developer who loves to build application that solves real world problems",
   summary:"I am a passionate Frontend Developer with expertise in React.js, Next.js, and modern UI frameworks. I specialize in building responsive, user-friendly, and high-performance web applications using JavaScript (ES6+), TypeScript, Tailwind CSS, and Redux. With a keen eye for design and a strong understanding of UI/UX principles, I focus on creating seamless user experiences. I am always eager to learn new technologies, optimize performance, and contribute to innovative projects. Let's build something amazing together! 🚀",
+  resumeURL: "https://jade-chrysler-26.tiiny.site",
   avatarUrl: "https://avatars.githubusercontent.com/u/178190699?v=4",
   skills: [
     "React.js",

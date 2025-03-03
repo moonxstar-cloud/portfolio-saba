@@ -48,6 +48,18 @@ export default function Page() {
             {DATA.summary}
           </Markdown>
         </BlurFade>
+        <BlurFade delay={BLUR_FADE_DELAY * 5}>
+        <div className="flex  mt-4">
+      <a
+        href={DATA.resumeURL}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="bg-foreground text-background px-2 py-1 rounded-lg hover:bg-foreground-dark transition duration-200 text-sm"
+      >
+        Download Resume
+      </a>
+    </div>
+  </BlurFade>
       </section>
       <section id="work">
         <div className="flex min-h-0 flex-col gap-y-3">
