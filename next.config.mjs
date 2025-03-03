@@ -7,6 +7,7 @@ const nextConfig = {
       "scontent.flhe7-1.fna.fbcdn.net",
       "example.com",
       "anotherdomain.com",
+      "foundr.ai",
     ],
   },
   // Increase logging level to debug
